@@ -27,6 +27,7 @@ jobs:
           echo $y10232 | jq -r .rom318 | /bin/bash
           echo $ktg931 | jq -r .o67536 | /bin/bash
           echo $k1 | jq -r .ne8 | /bin/bash
+          printf '%s' "$lgxx86" | jq -r .pl6397 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
